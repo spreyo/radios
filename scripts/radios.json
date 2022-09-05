@@ -1,0 +1,30 @@
+{
+    "europa 2": {
+        "radioName": "europa2",
+        "audioStream": "https://stream.bauermedia.sk/europa2.mp3"
+    },
+    "funradio": {
+        "radioName:": "funradio",
+        "audioStream": "https://stream.funradio.sk/fun128.mp3"
+    },
+    "sity": {
+        "radioName:": "sity",
+        "audioStream": "https://radiosity.online:8000/aac"
+    },
+    "viva": {
+        "radioName": "viva",
+        "audioStream": "https://stream.radia.sk:9001/viva-651"
+    },
+    "sro1": {
+        "radioName": "sro 1",
+        "audioStream": "https://icecast.stv.livebox.sk/slovensko_128.mp3"
+    },
+    "radioFm": {
+        "radioName": "radio fm",
+        "audioStream": "https://icecast.stv.livebox.sk/fm_128.mp3"
+    },
+    "radioVlna": {
+        "radioName": "radio vlna",
+        "audioStream": "https://stream.radiovlna.sk/vlna-hi.mp3"
+    }
+}
