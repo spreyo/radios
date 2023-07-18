@@ -13,6 +13,7 @@ function unmuteRadio(radioName) {
     const radio = radios[radioName];
     radio.muted = false;
     console.log(`${radioName} muted ${radio.muted}`)
+    document.title = `${radioName} - radio.spreyo.xyz`
 }
 
 // function playRadio(radio) {
